@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187170104693",
+    "project_id": "hotel1-392ae",
+    "storage_bucket": "hotel1-392ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187170104693:android:1567f4d47aceff41b99f3c",
+        "android_client_info": {
+          "package_name": "com.apphotel.grace.hotelutc.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187170104693-nd0f0gpdel3p3phi1d6ds1i5mc4dgq2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apphotel.grace.hotelutc.hotel",
+            "certificate_hash": "b17777d63f224c46daa02f0763d81b4e80c0f72a"
+          }
+        },
+        {
+          "client_id": "187170104693-b3bg8rtl2ig2eqol46710ikbh257196l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEHnf_DsuNCyFBOwElOAqPCY_C2mVko8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187170104693-b3bg8rtl2ig2eqol46710ikbh257196l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
